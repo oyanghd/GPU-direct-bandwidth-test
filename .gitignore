@@ -1,0 +1,4 @@
+pp*
+*.o
+cuda_staged_pp*
+cuda_aware_pp*
